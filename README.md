@@ -1,25 +1,20 @@
-# ml-tutorial
+# ml
 Notes I keep on Machine Learning.
 
 ## Installation
-Install pyenv-virtualenv through brew:
-```bash
-brew install pyenv-virtualenv
-```
-
 Install python through pyenv:
 ```bash
-pyenv install 3.12.6
+pyenv install 3.12.7
 ```
 
 Create a virtual environment through pyenv-virtualenv:
 ```bash
-pyenv virtualenv 3.12.6 ml-tutorial
+pyenv virtualenv 3.12.7 ml
 ```
 
 Set ml-tutorial as the local default virtualenv:
 ```bash
-pyenv local ml-tutorial
+pyenv local ml
 ```
 
 Upgrade pip:
