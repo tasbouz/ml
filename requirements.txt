@@ -10,3 +10,4 @@ torchmetrics==1.6.1
 torchinfo==1.8.0
 torchvision==0.20.1
 torchviz==0.0.3
+virtualenv==20.28.1
